@@ -1,0 +1,48 @@
+/* navbar css */
+*{
+    margin:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    padding: 1.8;;
+}
+.nav a{
+      text-decoration: none; /*removing lines below */
+      font-size: 17px;
+      color: black;
+      margin-left: 4%;
+      vertical-align: middle;
+      font-weight: bold;
+}
+.logo{
+    margin: 0%;
+}
+#signin{
+    background-color: #00baf2;
+    color: white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 1%;
+    border: none;
+    width: 10%;
+    font-weight: bold;
+    font-size: 18px;
+}
+.logo{
+    margin: 0%;
+}
+#signin{
+    background-color: #00baf2;
+    color: white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 1%;
+    border: none;
+    width: 10%;
+    font-weight: bold;
+    font-size: 18px;
+}
+#signin:hover{
+    background-color: #2b54a6;
+}
